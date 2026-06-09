@@ -168,11 +168,7 @@ export default function Home() {
         <h1 className={`text-3xl md:text-5xl font-black tracking-tight uppercase font-sans transition-colors duration-300 ${
           isDarkMode ? 'text-slate-100' : 'text-slate-900'
         }`}>
-<<<<<<< Updated upstream
-          JOHNNY HL
-=======
           Daniel Huaman
->>>>>>> Stashed changes
         </h1>
         <p className={`text-xs md:text-sm font-mono tracking-widest uppercase mt-1 transition-colors ${
           isDarkMode ? 'text-slate-500' : 'text-slate-400'
